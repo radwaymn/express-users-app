@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Mike",
+      "tasks": ["Study", "Cook"]
+    },
+    {
+      "id": 2,
+      "name": "Sara",
+      "tasks": ["Meet Friends"]
+    },
+    {
+      "id": 3,
+      "name": "Andy",
+      "tasks": ["train", "eat", "sleep"]
+    }
+]
